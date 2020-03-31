@@ -1,0 +1,6 @@
+framework module Pods_HenriPotierLibrary {
+  umbrella header "Pods-HenriPotierLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
